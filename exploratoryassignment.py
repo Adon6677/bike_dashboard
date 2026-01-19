@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1-jEe_6RE6xa-Ga6S0DSryUbfNTyt2Vi5
 """
 
-from google.colab import files
-uploaded = files.upload()
+
 
 import pandas as pd
 import numpy as np
